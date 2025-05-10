@@ -1,0 +1,16 @@
+.white-box , .black-box , .blue-box{
+    width: 100px;
+    height: 100px;
+}
+
+.black-box{
+    background-color: black;
+}
+
+.white-box{
+    background-color: white;
+}
+
+.blue-box{
+    background-color: lightblue;
+}

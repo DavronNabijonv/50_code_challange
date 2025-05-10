@@ -1,0 +1,60 @@
+🧩 1-10: Advanced Arrays & Objects
+1️⃣ Write a function to flatten a deeply nested array (without using .flat()).
+2️⃣ Implement deep cloning of an object (without JSON.parse(JSON.stringify())).
+3️⃣ Write a function that removes duplicate objects from an array based on a property.
+4️⃣ Implement a function to group elements in an array based on a callback function.
+5️⃣ Create a function to merge two sorted arrays into one sorted array without duplicates.
+6️⃣ Implement a Linked List in JavaScript with insert, delete, and search methods.
+7️⃣ Write a function that converts an array of objects into a nested object based on a key.
+8️⃣ Create a Trie (prefix tree) and implement insert and search methods.
+9️⃣ Implement Lodash’s _.get() function to access deep properties in an object.
+🔟 Write a function that shuffles an array randomly (like Fisher-Yates shuffle).
+
+📊 11-20: Recursion & Algorithm Challenges
+1️⃣1️⃣ Solve Tower of Hanoi using recursion.
+1️⃣2️⃣ Implement a function that solves Sudoku puzzles.
+1️⃣3️⃣ Write a recursive function that generates all possible permutations of a string.
+1️⃣4️⃣ Implement quick sort and merge sort from scratch.
+1️⃣5️⃣ Write a function to find the longest increasing subsequence in an array.
+1️⃣6️⃣ Implement a function to find all subsets of a given array.
+1️⃣7️⃣ Write a function that finds the longest common subsequence of two strings.
+1️⃣8️⃣ Implement binary search for a sorted array.
+1️⃣9️⃣ Solve the N-Queens problem using recursion and backtracking.
+2️⃣0️⃣ Write a function that finds the shortest path in a maze using BFS.
+
+🕹️ 21-30: Functional Programming Challenges
+2️⃣1️⃣ Implement a custom map(), filter(), and reduce() functions.
+2️⃣2️⃣ Write a function that caches function results (memoization).
+2️⃣3️⃣ Implement function currying for any given function.
+2️⃣4️⃣ Write a function that debounces another function.
+2️⃣5️⃣ Implement a throttle function that limits execution within a time interval.
+2️⃣6️⃣ Create a custom event emitter in JavaScript.
+2️⃣7️⃣ Implement a function that converts a callback-based function into a Promise.
+2️⃣8️⃣ Implement lazy evaluation for infinite sequences.
+2️⃣9️⃣ Create a compose function that allows function composition.
+3️⃣0️⃣ Write a pipeline function that chains multiple functions together.
+
+⏳ 31-40: Asynchronous JavaScript & Performance Optimization
+3️⃣1️⃣ Implement a Promise.all() polyfill.
+3️⃣2️⃣ Implement a Promise.race() polyfill.
+3️⃣3️⃣ Write a function that retries an API call with exponential backoff.
+3️⃣4️⃣ Implement a function to parallelize API calls and handle errors gracefully.
+3️⃣5️⃣ Write an async function that limits concurrent API requests.
+3️⃣6️⃣ Implement a job scheduler where tasks are executed at specific times.
+3️⃣7️⃣ Create a rate limiter that allows N requests per second.
+3️⃣8️⃣ Write a function to poll an API until a condition is met.
+3️⃣9️⃣ Implement a function that cancels a fetch request using AbortController.
+4️⃣0️⃣ Write a function that runs multiple Promises in sequence instead of in parallel.
+
+🛠️ 41-50: Advanced DOM & Browser API Challenges
+4️⃣1️⃣ Implement an infinite scrolling feature using Intersection Observer.
+4️⃣2️⃣ Write a drag-and-drop file uploader with JavaScript.
+4️⃣3️⃣ Create a custom virtual DOM and diffing algorithm.
+4️⃣4️⃣ Implement a function that detects when an element is visible on the screen.
+4️⃣5️⃣ Write a function to detect and prevent memory leaks in a JavaScript app.
+4️⃣6️⃣ Create a JavaScript animation library using requestAnimationFrame().
+4️⃣7️⃣ Implement a custom web worker for heavy computations.
+4️⃣8️⃣ Create a function to detect and block ad blockers on a webpage.
+4️⃣9️⃣ Write a function that implements a content lazy loader (like lazy image loading).
+5️⃣0️⃣ Implement a JavaScript-based dark mode toggle with local storage.
+
