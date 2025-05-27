@@ -53,3 +53,19 @@ function cloneFunction(cloneStr) {
 const json = '{"result":true, "count":42,"bool":false, "num":100,"name":Davron,"age":22}';
 
 console.log(cloneFunction(json));
+
+
+function deepClone(obj) {
+  if (obj === null || typeof obj !== 'object') return obj;
+  if (Array.isArray(obj)) return obj.map(deepClone);
+  const cloned = {};
+  for (let key in obj) {
+    cloned[key] = deepClone(obj[key]);
+  }
+  return cloned;
+}
+
+// Misol:
+const original = { a: 1, b: { c: 2 } };
+const clone = deepClone(json);
+console.log(clone)
