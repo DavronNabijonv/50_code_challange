@@ -26,6 +26,8 @@
 
 // console.log(checkString(nom));
 
+
+
 function createBox(arr) {
   
     const engKatta = arr.sort();
